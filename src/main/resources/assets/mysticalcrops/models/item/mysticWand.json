@@ -1,0 +1,60 @@
+{
+    "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
+    "textures": {
+        "0": "mysticalcrops:items/cap_texture_mystic",
+        "1": "mysticalcrops:items/rod_texture"
+    },
+    "elements": [
+        {
+            "name": "Cube",
+            "from": [ 7.5, 11.0, 7.5 ], 
+            "to": [ 8.5, 12.0, 8.5 ], 
+            "faces": {
+                "north": { "texture": "#0", "uv": [ 0.0, 0.0, 1.0, 1.0 ] },
+                "east": { "texture": "#0", "uv": [ 0.0, 0.0, 1.0, 1.0 ] },
+                "south": { "texture": "#0", "uv": [ 0.0, 0.0, 1.0, 1.0 ] },
+                "west": { "texture": "#0", "uv": [ 0.0, 0.0, 0.0, 1.0 ] },
+                "up": { "texture": "#0", "uv": [ 0.0, 0.0, 1.0, 1.0 ] },
+                "down": { "texture": "#0", "uv": [ 0.0, 0.0, 1.0, 1.0 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 7.5, 4.0, 7.5 ], 
+            "to": [ 8.5, 5.0, 8.5 ], 
+            "faces": {
+                "north": { "texture": "#0", "uv": [ 0.0, 0.0, 1.0, 1.0 ] },
+                "east": { "texture": "#0", "uv": [ 0.0, 0.0, 1.0, 1.0 ] },
+                "south": { "texture": "#0", "uv": [ 0.0, 0.0, 1.0, 1.0 ] },
+                "west": { "texture": "#0", "uv": [ 0.0, 0.0, 0.0, 1.0 ] },
+                "up": { "texture": "#0", "uv": [ 0.0, 0.0, 1.0, 1.0 ] },
+                "down": { "texture": "#0", "uv": [ 0.0, 0.0, 1.0, 1.0 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 7.6, 5.0, 7.6 ], 
+            "to": [ 8.4, 11.0, 8.4 ], 
+            "faces": {
+                "north": { "texture": "#1", "uv": [ 0.0, 0.0, 0.8, 6.0 ] },
+                "east": { "texture": "#1", "uv": [ 0.0, 0.0, 0.8, 6.0 ] },
+                "south": { "texture": "#1", "uv": [ 0.0, 0.0, 0.8, 6.0 ] },
+                "west": { "texture": "#1", "uv": [ 0.0, 0.0, 0.8, 6.0 ] },
+                "up": { "texture": "#1", "uv": [ 0.0, 0.0, 0.8, 0.8 ] },
+                "down": { "texture": "#1", "uv": [ 0.0, 0.0, 0.8, 0.8 ] }
+            }
+        }
+    ],
+    "display": {
+        "thirdperson": {
+            "rotation": [ 0, 90, -90],
+            "translation": [ 0, 1.25, -3.5 ],
+            "scale": [ 1.5, 1.5, 1.5 ]
+        },
+        "firstperson": {
+            "rotation": [ 0, -135, 25 ],
+            "translation": [ 0, 4, 2 ],
+            "scale": [ 3, 3, 3 ]
+        }
+    }
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "normal": {
+      "fill=false": { "model": "mysticalcrops:alchemicalDuster_empty" },
+      "fill=true": { "model": "mysticalcrops:alchemicalDuster_full" }
+    }
+  }
+}

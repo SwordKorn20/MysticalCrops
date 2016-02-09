@@ -1,0 +1,6 @@
+{
+  "parent":"mysticalcrops:item/seed_item",
+  "textures": {
+    "layer0":"mysticalcrops:items/ironSeed"
+  }
+}

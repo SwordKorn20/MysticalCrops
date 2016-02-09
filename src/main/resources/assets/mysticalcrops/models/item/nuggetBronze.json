@@ -1,0 +1,6 @@
+{
+  "parent": "mysticalcrops:item/nugget_item",
+  "textures": {
+    "layer0": "mysticalcrops:items/nuggetBronze"
+  }
+}

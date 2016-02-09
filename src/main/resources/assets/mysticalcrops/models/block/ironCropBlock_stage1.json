@@ -1,0 +1,6 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "mysticalcrops:blocks/iron_crop_base_1"
+  }
+}

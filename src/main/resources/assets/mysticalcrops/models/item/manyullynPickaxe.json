@@ -1,0 +1,7 @@
+{
+  "parent": "mysticalcrops:item/cropTool",
+
+  "textures": {
+    "layer0": "mysticalcrops:items/manyullynPickaxe"
+  }
+}

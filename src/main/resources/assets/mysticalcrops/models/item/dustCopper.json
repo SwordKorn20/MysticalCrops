@@ -1,0 +1,6 @@
+{
+  "parent": "mysticalcrops:item/dust_item",
+  "textures": {
+    "layer0": "mysticalcrops:items/dustCopper"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "mysticalcrops:item/cropSword",
+
+  "textures": {
+    "layer0": "mysticalcrops:items/cobaltSword"
+  }
+}
